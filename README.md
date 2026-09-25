@@ -1,0 +1,3 @@
+The Machine Learning-Based Optimization of Pesticide Testing Protocols project explored how food safety agencies could test produce more efficiently. Using USDA pesticide testing data, we built models to predict which tests were likely to detect residues and a recommendation system that selected a focused set of pesticides to test for each crop.
+
+I worked on analyzing the testing data, comparing prediction models, and developing recommendations that balanced testing costs with detection coverage. The project combined machine learning with a practical decision support question: which tests should a lab prioritize for a given crop?
